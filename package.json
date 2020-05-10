@@ -1,0 +1,12 @@
+{
+  "name": "fake-log-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:flee24/fake-log-generator.git",
+  "author": "Alexander",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "faker": "^4.1.0"
+  }
+}
